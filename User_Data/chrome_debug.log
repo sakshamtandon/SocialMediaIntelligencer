@@ -1,0 +1,6 @@
+[48800:20743:0803/185734.494590:ERROR:simple_version_upgrade.cc(165)] Disk cache backend fake index file has wrong magic number.
+[48800:20743:0803/185734.608409:ERROR:simple_backend_impl.cc(754)] Simple Cache Backend: wrong file structure on disk: 3 path: /Users/sakshamtandon/Downloads/Social_Media_Intelligencer-1/SMI/User_Data/Default/Cache
+[48799:259:0803/185735.954377:ERROR:shared_image_manager.cc(214)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[48790:259:0803/185737.927593:INFO:CONSOLE(0)] "[DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o", source: https://www.instagram.com/accounts/login/ (0)
+[48790:259:0803/185740.179192:INFO:CONSOLE(0)] "The resource https://www.instagram.com/static/bundles/es6/FBSignupPage.css/55ba8f05e763.css was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.instagram.com/accounts/login/ (0)
+[48790:259:0803/185757.489368:WARNING:pref_notifier_impl.cc(40)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
